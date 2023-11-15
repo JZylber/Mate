@@ -40,7 +40,7 @@ mantienen, si el mate está lavado y el mateador no acepta lavados, no lo toma.
 - La función termina cuando todos los mateadores toman todos los mates y se termina la vuelta.
 - La función retorna la cantidad de vueltas que se dieron.
 
-Para este punto, no solo deben hacer la función si no además escribir casos de test. En el archivo `test_mate` completar dentro de la clase `TestRondaDeMates` tests para esta función. 
+Para este punto, no solo deben hacer la función si no además escribir casos de test **usando la librería pytest**. En el archivo `test_mate` completar dentro de la clase `TestRondaDeMates` tests para esta función. 
 Como mínimo incluyan estos casos:
 - Una ronda donde todos los mateadores van a tomar la misma cantidad de mates
 - Una ronda donde los mateadores toman números distintos de mates.
